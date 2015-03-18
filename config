@@ -1,2 +1,10 @@
-userid=4
-days=100
+userid=2
+days=80
+
+#[0]="min"
+#[1]="wei"
+#[2]="shen"
+#[3]="kun"
+#[4]="mom"
+#[5]="hua"
+#[6]="hw"
