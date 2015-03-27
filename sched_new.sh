@@ -20,4 +20,4 @@ do
   current_time=`date +%s`
 done
 
-echo "$project:$amount" > minJimuTmp/.projects
+echo "$project;$amount" > minJimuTmp/.projects
